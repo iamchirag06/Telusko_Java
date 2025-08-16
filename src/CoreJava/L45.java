@@ -9,9 +9,10 @@ public class L45 {
         obj1.setAge(18);
         obj1.setName("Chirag");
 
-        System.out.println(obj1.getName()+":"+ obj1.getAge());
+        System.out.println(obj1.getName() + ":" + obj1.getAge());
     }
 }
+
 class Human1 {
     private int age;
     private String name;

@@ -7,25 +7,27 @@ public class L44 {
         obj.setAge(11);
         obj.setName("Chirag");
 
-        System.out.println(obj.getName()+":"+obj.getAge());
+        System.out.println(obj.getName() + ":" + obj.getAge());
     }
 }
-class Human{
+
+class Human {
     private int age;
     private String name;
-
 
     public int getAge() {
         return age;
     }
-    public void setAge(int a){
+
+    public void setAge(int a) {
         age = a;
     }
 
-    public String getName(){
+    public String getName() {
         return name;
     }
-    public void setName(String n){
+
+    public void setName(String n) {
         name = n;
     }
 }
