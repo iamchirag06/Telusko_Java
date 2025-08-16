@@ -1,6 +1,6 @@
 package CoreJava;
 
-import L57.Calc;
+import CoreJava.Package.Calc;
 
 public class L58 {
     public static void main(String[] args) {

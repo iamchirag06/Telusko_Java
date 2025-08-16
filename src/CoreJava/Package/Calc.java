@@ -1,4 +1,4 @@
-package L57;
+package CoreJava.Package;
 
 public class Calc {
         public int add(int n1,int n2)
