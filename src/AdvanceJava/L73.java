@@ -1,7 +1,7 @@
 package AdvanceJava;
 
 // Implementing Both Abstract class and Anonymous Class
-
+//It is favourable for one time implementation
 
 //Abstract class
 abstract class L73A{
@@ -9,13 +9,6 @@ abstract class L73A{
     public abstract void show();
     public abstract void config();
 }
-
-// class L73B extends L73A{
-//
-//    public void show() {
-//        System.out.println("in the Show");
-//    }
-// }
 
 public class L73 {
     public static void main(String[] args) {

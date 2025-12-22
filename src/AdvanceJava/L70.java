@@ -23,6 +23,7 @@ abstract class Car{ //ABSTRACT CLASS
         System.out.println("Play Music");
     }
 }
+//It is compulsory to make a method in extended of abstract class
 class WagonR extends Car{ //Concrete class
     public void drive(){
         System.out.println("Driving..");

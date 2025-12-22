@@ -1,6 +1,10 @@
 package AdvanceJava;
 
 // Anonymous Inner Class
+// It is the declared at the time of object creation... within the object of Main Class
+// to provide different implementation of Obj
+
+// In this, no class name is needed to declared...separately
 class L72A{
 
     public void show(){
@@ -9,6 +13,7 @@ class L72A{
 }
 
 public class L72 {
+
     public static void main(String[] args) {
 
         L72A obj = new L72A(){
