@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 
 //class - class -> extends
 //class - interface -> implements

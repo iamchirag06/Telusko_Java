@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 
 //enum
 //In Java, an enum is essentially a special type of class that contains a fixed set of constants.

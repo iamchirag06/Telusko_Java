@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 
 // Anonymous Inner Class
 // It is the declared at the time of object creation... within the object of Main Class

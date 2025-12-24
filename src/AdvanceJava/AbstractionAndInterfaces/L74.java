@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 
 //Interfaces
 //Interface is not Class

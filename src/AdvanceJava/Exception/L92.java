@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Exception;
 //throws keyword
 // Also called Ducking Exception
 

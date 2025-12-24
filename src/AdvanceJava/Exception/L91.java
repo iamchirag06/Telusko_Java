@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Exception;
 // Custom Exception
 
 

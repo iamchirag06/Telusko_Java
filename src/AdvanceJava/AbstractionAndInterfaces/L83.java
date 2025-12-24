@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 // Functional Interface: which has only one interface in it
 //Also called as SAM : Single Abstract Method Interface
 

@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 
 //Lambda Expression with Return Values
 @FunctionalInterface

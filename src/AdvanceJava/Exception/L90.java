@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Exception;
 
 //Exception Throw KeyWord
 public class L90 {

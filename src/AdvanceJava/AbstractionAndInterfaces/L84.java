@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 // Lambda Expression
 //Lambda expressions provide a clear and concise way to represent the
 //implementation of a functional interface

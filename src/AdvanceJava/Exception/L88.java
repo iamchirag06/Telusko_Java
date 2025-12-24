@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Exception;
 
 public class L88 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 
 // Implementing Both Abstract class and Anonymous Class
 //It is favourable for one time implementation

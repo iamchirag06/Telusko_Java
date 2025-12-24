@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.ExcerciseQues;
 
 
 public class ExerciseQues {

@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 //Need of Interface
 
 class Developer { // Does not depend on laptop or Desktop : Loose Coupling

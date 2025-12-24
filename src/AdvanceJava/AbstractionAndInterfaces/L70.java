@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.AbstractionAndInterfaces;
 //Abstract Keyword
 
 // we cannot create objects of abstract class...

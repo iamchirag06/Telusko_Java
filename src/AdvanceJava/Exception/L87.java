@@ -1,4 +1,4 @@
-package AdvanceJava;
+package AdvanceJava.Exception;
 
 // try catch Exception
 public class L87 {
