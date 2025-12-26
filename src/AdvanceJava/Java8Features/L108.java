@@ -1,11 +1,11 @@
-package AdvanceJava.CollectionInJava;
+package AdvanceJava.Java8Features;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Stream;
 
 //Stream API
 // Once we use it, again we do not reuse it...
+
+import java.util.Arrays;
+import java.util.List;
 
 public class L108 {
     public static void main(String[] args) {
@@ -18,12 +18,13 @@ public class L108 {
 //        int result = s3.reduce(0,(c,e)-> c+e);
 
         int result = nums.stream()
-                         .filter(n->n%2==0)
-                         .map(n->n*2)
-                         .reduce(0,(c,e)-> c+e);
+                         .filter(n->n%2==0) // separate even number
+                         .map(n->n*2) //double the even number
+                         .reduce(0,(c,e)-> c+e); // summation
 
 
         System.out.println(result);
-//        s3.forEach(n-> System.out.println(n));
+
+//      s3.forEach(n-> System.out.println(n));
     }
 }

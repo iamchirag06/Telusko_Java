@@ -1,11 +1,9 @@
-package AdvanceJava.CollectionInJava;
+package AdvanceJava.Java8Features;
 
-//Different types of Loops
+//Different types of Loops or Need of Stream API
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class L106 {
     public static void main(String[] args) {

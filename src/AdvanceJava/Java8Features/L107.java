@@ -1,4 +1,4 @@
-package AdvanceJava.CollectionInJava;
+package AdvanceJava.Java8Features;
 
 //for each method
 
